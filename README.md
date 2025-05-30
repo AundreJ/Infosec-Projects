@@ -39,4 +39,4 @@ This project demonstrates how to configure and test Self-Service Password Reset 
 ## 🧠 What I Learned
 - How to configure SSPR for specific users
 - How to simulate a real user password reset
-- Where to audit self-service security events in Entra![image](https://github.com/user-attachments/assets/c8a487cd-f8bb-433d-86e5-950d6fd40d21)
+- Where to audit self-service security events in Entra!
